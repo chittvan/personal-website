@@ -1,0 +1,171 @@
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+color: #66BFBF;
+}
+
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  margin-top: 0;
+  color: #66BFBF;
+  font-weight: bolder;
+}
+a{
+  color: #11999E;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: bold;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+background-color: #66BFBF;
+margin: 0;
+padding: 50px 0 50px 0;}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom:300px;
+}
+
+span {
+  text-decoration: underline;
+}
+.my-image{
+  height: 250px;
+  width: 250px;
+}
+.coding{
+  height: 200px;
+  width: 200px;
+float: left;
+margin-right: 30px;
+}
+.workout{
+  height: 200px;
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+}
+.cooking{
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 80px auto 80px auto;
+  text-align: left;
+ line-height: 2;
+}
+.my-image{
+  margin:  50px 0 50px 0;
+}
+.profile{
+  width: 38%;
+  margin: 0 auto 0 auto;
+}
+p{
+  line-height: 2
+}
+.profile-description{
+  color: #40514E;
+  margin: 50px 0 50px;
+
+}
+hr{
+  border-color: #EAF6F6;
+  border-width: 7px;
+  width:5%;
+  border-style: dotted none none;
+  margin: 100px auto 100px auto;
+
+}
+.my-skills{
+  margin-top: 50px;
+}
+.contact{
+margin: 50px 0 30px 0;
+}
+.contact-me{
+  width: 42%;
+  margin: 0 auto 0 ;
+}
+.BUTTON_OET {
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+   width: 110px;
+   font-size: 16px;
+   font-weight: bold;
+   padding: 18px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 50px 0 80px 0;
+}
+
+.BUTTON_OET:hover {
+   background: #46CDCF;
+   border: solid #337FED 0;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
+.contact-description{
+  margin-top: 30px;
+}
+.footer-link{
+  font-weight: bolder;
+  text-decoration: none;
+  color: #11999E;
+  line-height: 2;
+  word-spacing: 2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+.footer-link:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  margin-top: 20px;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
